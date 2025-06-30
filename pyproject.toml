@@ -1,9 +1,18 @@
 [project]
+<<<<<<< HEAD
 name = "test"
+=======
+name = "myproject"
+>>>>>>> e96b8aade3b6d6176b5c89e3af6733ff76eb0ff9
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+<<<<<<< HEAD
     "google-cloud-bigquery>=3.34.0",
+=======
+    "gpiozero>=2.0.1",
+    "pigpio>=1.78",
+>>>>>>> e96b8aade3b6d6176b5c89e3af6733ff76eb0ff9
 ]
